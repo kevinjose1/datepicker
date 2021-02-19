@@ -1,0 +1,19 @@
+.datpicker-input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+.submit-btn{
+    position: fixed;
+    top: 10%;
+    padding-left: 5%;
+    left: 40%;
+    bottom: 85%;
+    text-align: center;
+    padding-right: 5%;
+}
